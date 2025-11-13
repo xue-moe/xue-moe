@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Ryosetsu<sup>(or Xue)</sup>
 
-<!--
-**xue-moe/xue-moe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+A developer who enjoys building clean, efficient, and meaningful things. Passionate about open-source, problem‑solving, and continuous learning.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Languages:** JavaScript / TypeScript / Python / Java /
+- **Frontend:** Nuxt.js / Tailwind CSS
+- **Backend:** Node.js
+- **Databases:** PostgreSQL / MySQL / MongoDB
+- **Others:** Git / Docker / Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact
+
+- Email: [me@xue.moe](mailto\:me@xue.moe)
+- Blog / Website: [https://xue.moe](https://xue.moe)
